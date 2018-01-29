@@ -1,0 +1,5 @@
+print('VanQin')
+print('1+2-3/4*5=0')
+print('actually...', end= ' ')
+print('I dont quite get the point for this question...')
+print('what?\n', 'what what?')
